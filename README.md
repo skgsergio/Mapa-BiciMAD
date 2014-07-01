@@ -10,7 +10,7 @@ Por último el portal OpenData del Ayuntamiento de Madrid publica un documento .
 Descargo de responsabilidad
 ---------------------------
 
-Este proyecto no es completo, puede tener fallos y, además, es solo una prueba de concepto que puede dejar de funcionar ya que se basa en APIs cerradas de BiciMAD que pueden retirarse en cualquier momento.
+Este proyecto no es completo, puede tener fallos y, además, es solo una prueba de concepto que puede dejar de funcionar ya que se basa en APIs cerradas de BiciMAD que pueden retirarse en cualquier momento. Además, seamos sinceros, el código es una basura y no tengo intención de mejorarlo (xD).
 
 El único objetivo de este proyecto es demostrar que puede hacerse de forma sencilla, sin conocer excesivamente la infrastructura, y sería de gran utilidad que se implementase de forma oficial algo de este estilo.
 
