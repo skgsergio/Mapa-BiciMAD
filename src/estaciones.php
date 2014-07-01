@@ -5,7 +5,7 @@ require 'config.inc.php';
 /* Cutre protección de referer */
 if (@strpos($_SERVER['HTTP_REFERER'], $_SERVER['HTTP_HOST']) == false)
   gtfo("509 Bandwidth Limit Exceeded",
-       "Por favor, no uses mi ancho de banda.<br />El c&oacute;digo fuente est&aacute; disponible en: <a href=\"https://github.com/skgsergio/mapabicimad\">https://github.com/skgsergio/mapabicimad</a>");
+       "Por favor, no uses mi ancho de banda.<br />El c&oacute;digo fuente est&aacute; disponible en: <a href=\"https://github.com/skgsergio/Mapa-BiciMAD\">https://github.com/skgsergio/Mapa-BiciMAD</a>");
 
 /* Cutre protección por token */
 if (!isset($_GET['sid'])) gtfo();
